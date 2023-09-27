@@ -1,2 +1,2 @@
-# html-resume
-Training project HTML-Resume 
+# html-mechanical design career resume
+Mechanical Design Resume Training project HTML-Resume 
